@@ -1,0 +1,3 @@
+- get up-to-date with Floflis new reverse domain naming (e.g. eth.floflis.central) and find manifest.webapp
+
+- support for portable floflis apps (also scanning floapps from its disk) and data sync
